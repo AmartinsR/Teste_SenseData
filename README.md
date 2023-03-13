@@ -30,6 +30,7 @@ Biblioteca io cucumber-java - version 6.11.0 - no pom.xml
 Biblioteca io cucumber-core - version 6.11.0 - no pom.xml
 Biblioteca io cucumber-junit - version 6.11.0 - no pom.xml
 Biblioteca selenium-http-jdk-client - version 4.5.0 - no pom.xml
+Arquivo ChromeDriver.exe - version 111.0.5563.64 - na pasta Drivers em: ./Drivers
 
 # :divisão das classes e pastas e arquivos
 -Pasta Drivers - Contem a classe Drivers - que instancia o objeto WebDriver
